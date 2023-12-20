@@ -1,0 +1,190 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.home-container {
+    width: 100%;
+    height: 90vh;
+    margin: 0;
+    padding: 0;
+    
+   
+}
+
+.home-container img {
+    width: 100%;
+    height: 49rem;
+   
+}
+
+.box-1 {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%,-30%);
+    color: darksalmon;
+    padding: 10px 20px;
+    font-size: 30px;
+    text-align: center;
+    
+   
+}
+
+.photo-container {
+   vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 10rem;
+
+
+}
+
+.photo-container img {
+  
+   
+    width: 300px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 10rem;
+    margin-bottom: .5rem;
+}
+
+.photo-text h1 {
+    font-size: 2rem;
+    color: darksalmon;
+   
+}
+
+.photo-text  p {
+    font-size: 1.5rem;
+  
+    margin: 7px;
+   
+}
+
+.skill-container {
+    display:inline-block;
+   text-align: center;
+   width: 100%;
+}
+
+.skill-container h1 {
+    font-size:2.5rem ;
+    color: darksalmon;
+
+}
+
+.my-skills{
+    display: inline-block;
+
+}
+
+.first-skill {
+    display: flex;
+    margin-bottom: 5rem;
+}
+
+.first-skill img {
+    width: 300px;
+    margin-right: 3rem;
+}
+
+.first-skill p {
+    font-size: 1.3rem;
+    margin-top: 5rem;
+    
+}
+
+.second-skill {
+    display: flex;
+    margin-bottom: 10rem;
+}
+
+.second-skill img {
+    width: 300px;
+    height: 200px;
+    margin-right: 3rem;
+}
+
+.second-skill p {
+    font-size: 1.3rem;
+    margin-top: 5rem;
+   
+}
+
+
+
+.contact-container {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10rem;
+
+}
+
+.contact-one {
+    width: 100%;
+    height: 100%;
+   
+
+}
+
+.contact-one h1 {
+    font-size: 4rem;
+    color: darksalmon;
+}
+
+
+.contact-one p {
+    font-size: 2rem;
+    font-weight: bold;
+    color: darksalmon;
+
+}
+
+.contact-two {
+   margin-bottom: 3rem;
+}
+
+.contact-two p {
+    font-size: 1.3rem;
+}
+
+button {
+    background: darksalmon;
+    color: white;
+    font-size: 1.5rem;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+
+
+.footer {
+    background-color: darksalmon;
+    height: 15rem;
+    margin: 0;
+   
+}
+
+.footer-names {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-names a {
+    margin: 2rem;
+    color: white;
+    cursor: pointer;
+}
+
+
+
+
